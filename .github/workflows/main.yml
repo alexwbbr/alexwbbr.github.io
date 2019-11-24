@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: master
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v1
+
+      - name: npm install
+        run: npm install
+        
+      - name: angular build
+        run: npm run build
+       
+      - name: deploy
+        uses: maxheld83/ghpages@v0.2.1
+        env:
+          BUILD_DIR: "dist/"
+          GH_PAT: ${{ secrets.GITHUB_API_KEY }}
