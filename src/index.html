@@ -8,8 +8,38 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500&display=swap" rel="stylesheet">
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <style>
+    .splash {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: black;
+      width: 100vw;
+      height: 100vh;
+      position: absolute;
+      top: 0;
+    }
+    .splash.hide {
+     display: none;
+    }
+    .spinner {
+      border: 16px solid #f3f3f3; /* Light grey */
+      border-top: 16px solid #3498db; /* Blue */
+      border-radius: 50%;
+      width: 120px;
+      height: 120px;
+      animation: spin 2s linear infinite;
+    }
+    @keyframes spin {
+      0% { transform: rotate(0deg); }
+      100% { transform: rotate(360deg); }
+    }
+  </style>
 </head>
 <body>
   <app-root></app-root>
+  <div class="splash">
+      <div class="spinner"></div>
+  </div>
 </body>
 </html>
