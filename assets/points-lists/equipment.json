@@ -1,0 +1,87 @@
+[
+  {
+    "id": 1,
+    "name": "Armorium Cherub",
+    "points": 5
+  },
+  {
+    "id": 2,
+    "name": "Auto launchers",
+    "points": 0
+  },
+  {
+    "id": 3,
+    "name": "Auxiliary grenade launcher",
+    "points": 2
+  },
+  {
+    "id": 4,
+    "name": "Camo cloak",
+    "points": 2
+  },
+  {
+    "id": 5,
+    "name": "Centurion Assault Launchers",
+    "points": 0
+  },
+  {
+    "id": 6,
+    "name": "Combat Shield",
+    "points": 3
+  },
+  {
+    "id": 7,
+    "name": "Grapnel Launcher",
+    "points": 2
+  },
+  {
+    "id": 8,
+    "name": "Grav-chute",
+    "points": 2
+  },
+  {
+    "id": 9,
+    "name": "Haywire Mine",
+    "points": 10
+  },
+  {
+    "id": 10,
+    "name": "Infiltrator Comms Array",
+    "points": 5
+  },
+  {
+    "id": 11,
+    "name": "Ironclad Assault Launcher",
+    "points": 5
+  },
+  {
+    "id": 12,
+    "name": "Shield Dome",
+    "points": 25
+  },
+  {
+    "id": 13,
+    "name": "Smoke Grenade",
+    "points": 0
+  },
+  {
+    "id": 14,
+    "name": "Orbital Comms Array",
+    "points": 20
+  },
+  {
+    "id": 15,
+    "name": "Stormshield (characters)",
+    "points": 10
+  },
+  {
+    "id": 16,
+    "name": "Stormshield (non-characters)",
+    "points": 4
+  },
+  {
+    "id": 16,
+    "name": "Teleport Homer",
+    "points": 5
+  }
+]

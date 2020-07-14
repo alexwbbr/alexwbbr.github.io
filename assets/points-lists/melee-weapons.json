@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Chainfist",
+    "points": 10
+  },
+  {
+    "id": 2,
+    "name": "Chainsword",
+    "points": 0
+  },
+  {
+    "id": 3,
+    "name": "Combat Knife",
+    "points": 0
+  },
+  {
+    "id": 4,
+    "name": "Crozius Arcanum",
+    "points": 0
+  },
+  {
+    "id": 5,
+    "name": "Dreadnought Chainfist",
+    "points": 30
+  },
+  {
+    "id": 6,
+    "name": "Dreadnought CCW (Ironclad)",
+    "points": 0
+  },
+  {
+    "id": 7,
+    "name": "Dreadnought CCW",
+    "points": 20
+  },
+  {
+    "id": 8,
+    "name": "Invictor Fist",
+    "points": 0
+  },
+  {
+    "id": 9,
+    "name": "Eviscerator",
+    "points": 10
+  },
+  {
+    "id": 10,
+    "name": "Force Axe",
+    "points": 0
+  },
+  {
+    "id": 11,
+    "name": "Force Stave",
+    "points": 0
+  },
+  {
+    "id": 12,
+    "name": "Force Sword",
+    "points": 0
+  },
+  {
+    "id": 13,
+    "name": "Lightning Claw",
+    "points": 5
+  },
+  {
+    "id": 14,
+    "name": "Lightning Claws (pair)",
+    "points": 10
+  },
+  {
+    "id": 15,
+    "name": "Master-crafted Power Sword",
+    "points": 10
+  },
+  {
+    "id": 16,
+    "name": "Paired Combat Blades",
+    "points": 0
+  },
+  {
+    "id": 17,
+    "name": "Power Axe",
+    "points": 5
+  },
+  {
+    "id": 17,
+    "name": "Power Fist",
+    "points": 10
+  },
+  {
+    "id": 18,
+    "name": "Power Maul",
+    "points": 5
+  },
+  {
+    "id": 19,
+    "name": "Power Sword",
+    "points": 5
+  },
+  {
+    "id": 20,
+    "name": "Redemptor Fist",
+    "points": 0
+  },
+  {
+    "id": 21,
+    "name": "Relic Blade",
+    "points": 10
+  },
+  {
+    "id": 22,
+    "name": "Seismic Hammer",
+    "points": 30
+  },
+  {
+    "id": 23,
+    "name": "Servo-arm",
+    "points": 0
+  },
+  {
+    "id": 24,
+    "name": "Siege Drill",
+    "points": 0
+  },
+  {
+    "id": 25,
+    "name": "Thunderhammer (characters)",
+    "points": 40
+  },
+  {
+    "id": 26,
+    "name": "Thunderhammer (non-characters)",
+    "points": 15
+  }
+]

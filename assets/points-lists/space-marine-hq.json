@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Captain in Gravis Armour",
+    "points": 105,
+    "minSquadSize": 1,
+    "maxSquadSize": 1,
+    "squadSize": 1,
+    "rangedGear": [{
+      "id": 17,
+      "optional": false,
+      "selected": true,
+      "data": {}
+    }],
+    "meleeGear": [{
+        "id": 15,
+        "optional": false,
+        "selected": true,
+        "data": {}
+    }],
+    "equipment": []
+  },
+  {
+    "id": 2,
+    "name": "Captain in Phobos Armour",
+    "points": 93,
+    "minSquadSize": 1,
+    "maxSquadSize": 1,
+    "squadSize": 1,
+    "rangedGear": [{
+      "id": 68,
+      "optional": false,
+      "selected": true,
+      "data": {}
+    }],
+    "meleeGear": [],
+    "equipment": [{
+      "id": 4,
+      "optional": false,
+      "selected": true,
+      "data": {}
+    }]
+  },
+  {
+    "id": 3,
+    "name": "Primaris Lieutenant",
+    "points": 70,
+    "minSquadSize": 1,
+    "maxSquadSize": 1,
+    "squadSize": 1,
+    "rangedGear": [{
+      "id": 66,
+      "optional": false,
+      "selected": true,
+      "data": {}
+    }],
+    "meleeGear": [],
+    "equipment": []
+  },
+  {
+    "id": 3,
+    "name": "Chief Librarin Tigurius",
+    "points": 135,
+    "minSquadSize": 1,
+    "maxSquadSize": 1,
+    "squadSize": 1,
+    "rangedGear": [],
+    "meleeGear": [],
+    "equipment": []
+  },
+  {
+    "id": 4,
+    "name": "Marneus Calgar",
+    "points": 210,
+    "minSquadSize": 1,
+    "maxSquadSize": 1,
+    "squadSize": 1,
+    "rangedGear": [],
+    "meleeGear": [],
+    "equipment": []
+  }
+]
