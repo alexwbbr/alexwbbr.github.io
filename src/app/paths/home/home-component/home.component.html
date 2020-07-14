@@ -9,14 +9,15 @@ Total Army: {{totalArmyPoints}}
   </mat-select>
 </mat-form-field>
 <button mat-raised-button color="primary" (click)="addUnit('hqChoices', hqSelector.value)">Add</button>
-<mat-card *ngFor="let hq of armyList.hqChoices" class="unit-display">
-  <div>
-    <mat-card-title>{{hq.name}}</mat-card-title>
-    <mat-card-subtitle>Total Points: {{getTotalPoints(hq)}}</mat-card-subtitle>
-  </div>
-  <button mat-raised-button color="warn" (click)="removeUnit('hqChoices', hq)">Remove</button>
-</mat-card>
+<model-display-component
+        [unitList]="armyList.hqChoices"
+        [unitType]="'hqChoices'"
+        (removeUnit)="removeUnit($event)"
+        (changeUnitSize)="changeUnitSize($event)"
+></model-display-component>
+
 <mat-divider></mat-divider>
+
 <h3>Troop Choices</h3>
 <mat-form-field appearance="fill">
   <mat-label>Troop Choices</mat-label>
@@ -26,11 +27,9 @@ Total Army: {{totalArmyPoints}}
   </mat-select>
 </mat-form-field>
 <button mat-raised-button color="primary" (click)="addUnit('troopChoices', troopSelector.value)">Add</button>
-<mat-card *ngFor="let troop of armyList.troopChoices" class="unit-display">
-  <div>
-    <mat-card-title>{{troop.name}}</mat-card-title>
-    <mat-card-subtitle>Total Points: {{getTotalPoints(troop)}}</mat-card-subtitle>
-    <mat-card-subtitle>Squad Size: {{troop.squadSize}}</mat-card-subtitle>
-  </div>
-  <button mat-raised-button color="warn" (click)="removeUnit('troopChoices', troop)">Remove</button>
-</mat-card>
+<model-display-component
+        [unitList]="armyList.troopChoices"
+        [unitType]="'troopChoices'"
+        (removeUnit)="removeUnit($event)"
+        (changeUnitSize)="changeUnitSize($event)"
+></model-display-component>

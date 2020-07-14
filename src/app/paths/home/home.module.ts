@@ -7,6 +7,7 @@ import {MatButtonModule} from '@angular/material/button';
 import {MatSelectModule} from '@angular/material/select';
 import {ReactiveFormsModule} from '@angular/forms';
 import {MatDividerModule} from '@angular/material/divider';
+import {ModelDisplayComponent} from '../../components/model-display/model-display.component';
 
 @NgModule({
   imports: [
@@ -24,7 +25,8 @@ import {MatDividerModule} from '@angular/material/divider';
     ])
   ],
   declarations: [
-    HomeComponent
+    HomeComponent,
+    ModelDisplayComponent
   ]
 })
 export class HomeModule {}
