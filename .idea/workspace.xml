@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="74884012-39af-42fe-9cb0-d79c3a0f87e3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/assets/points-lists/equipment.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/points-lists/melee-weapons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/points-lists/ranged-weapons.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/points-lists/space-marine-hq.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/points-lists/space-marine-troops.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home-component/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home-component/home.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home-component/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/home/home.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/app.module.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home-component/home.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/paths/home/home.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/paths/home/home.module.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,6 @@
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -56,6 +59,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs.protractor.protractor_package" value="$PROJECT_DIR$/node_modules/protractor" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -74,6 +78,7 @@
   <component name="RunManager" selected="npm.Angular CLI Server">
     <configuration name="Tests (test)" type="JavaScriptTestRunnerKarma">
       <config-file value="$PROJECT_DIR$/karma.conf.js" />
+      <karma-package-dir value="$PROJECT_DIR$/node_modules/@angular/cli" />
       <working-directory value="$PROJECT_DIR$" />
       <node-interpreter value="project" />
       <envs />
@@ -82,6 +87,7 @@
     <configuration name="E2E Tests (test)" type="JavaScriptTestRunnerProtractor">
       <config-file value="$PROJECT_DIR$/e2e/protractor.conf.js" />
       <node-interpreter value="project" />
+      <protractor-package value="$PROJECT_DIR$/node_modules/protractor" />
       <protractor-options value="" />
       <envs />
       <scope-kind value="ALL" />
@@ -101,18 +107,6 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -130,29 +124,38 @@
       <workItem from="1579900490882" duration="5000" />
       <workItem from="1593530061156" duration="25000" />
       <workItem from="1593530143062" duration="104000" />
+      <workItem from="1593530747750" duration="2250000" />
+      <workItem from="1594677184407" duration="14638000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="328" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1593530169079">
       <screen x="0" y="23" width="1280" height="777" />
     </state>
     <state x="328" y="154" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1280.777@0.23.1280.777" timestamp="1593530169079" />
+    <state x="341" y="166" width="598" height="490" key="find.popup" timestamp="1594712965694">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="341" y="166" width="598" height="490" key="find.popup/0.23.1280.777@0.23.1280.777" timestamp="1594712965694" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1594679679019">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1594679679019" />
   </component>
 </project>

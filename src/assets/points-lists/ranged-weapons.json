@@ -1,0 +1,552 @@
+[
+  {
+    "id": 1,
+    "name": "Absolvor Bolt Pistol",
+    "points": 0
+  },
+  {
+    "id": 2,
+    "name": "Accelerator Autocannon",
+    "points": 0
+  },
+  {
+    "id": 3,
+    "name": "Assault Bolter",
+    "points": 0
+  },
+  {
+    "id": 4,
+    "name": "Assault Cannon (infantry)",
+    "points": 15
+  },
+  {
+    "id": 5,
+    "name": "Assault Cannon (non-infantry)",
+    "points": 20
+  },
+  {
+    "id": 6,
+    "name": "Assault Plasma Incinerator",
+    "points": 0
+  },
+  {
+    "id": 7,
+    "name": "Astartes Grenade Launcher",
+    "points": 0
+  },
+  {
+    "id": 8,
+    "name": "Astartes Shotgun",
+    "points": 0
+  },
+  {
+    "id": 9,
+    "name": "Auto Bolt Rifle",
+    "points": 0
+  },
+  {
+    "id": 10,
+    "name": "Auto Boltstorm Gauntlet",
+    "points": 0
+  },
+  {
+    "id": 11,
+    "name": "Bellicatus Missile Array",
+    "points": 20
+  },
+  {
+    "id": 12,
+    "name": "Bolt Carbine",
+    "points": 0
+  },
+  {
+    "id": 13,
+    "name": "Bolt Pistol",
+    "points": 0
+  },
+  {
+    "id": 14,
+    "name": "Bolt Rifle",
+    "points": 0
+  },
+  {
+    "id": 15,
+    "name": "Bolt Sniper Rifle",
+    "points": 0
+  },
+  {
+    "id": 16,
+    "name": "Boltgun",
+    "points": 0
+  },
+  {
+    "id": 17,
+    "name": "Boltstorm Gauntlet",
+    "points": 0
+  },
+  {
+    "id": 18,
+    "name": "Centurion Missile Launcher",
+    "points": 15
+  },
+  {
+    "id": 19,
+    "name": "Cerberus Launcher",
+    "points": 0
+  },
+  {
+    "id": 20,
+    "name": "Combi-bolter",
+    "points": 3
+  },
+  {
+    "id": 21,
+    "name": "Combi-flamer",
+    "points": 10
+  },
+  {
+    "id": 22,
+    "name": "Combi-grav",
+    "points": 10
+  },
+  {
+    "id": 23,
+    "name": "Combi-melta",
+    "points": 10
+  },
+  {
+    "id": 24,
+    "name": "Combi-plasma",
+    "points": 10
+  },
+  {
+    "id": 25,
+    "name": "Cyclone Missile Launcher",
+    "points": 25
+  },
+  {
+    "id": 26,
+    "name": "Deathwind Launcher",
+    "points": 5
+  },
+  {
+    "id": 27,
+    "name": "Demolisher Cannon",
+    "points": 0
+  },
+  {
+    "id": 28,
+    "name": "Flamer",
+    "points": 5
+  },
+  {
+    "id": 29,
+    "name": "Flamestorm Cannon",
+    "points": 0
+  },
+  {
+    "id": 30,
+    "name": "Flamestorm Gauntlet",
+    "points": 0
+  },
+  {
+    "id": 31,
+    "name": "Frag Grenade",
+    "points": 0
+  },
+  {
+    "id": 32,
+    "name": "Fragstorm Grenade Launcher",
+    "points": 5
+  },
+  {
+    "id": 33,
+    "name": "Grav-pistol",
+    "points": 5
+  },
+  {
+    "id": 34,
+    "name": "Grav-cannon (infantry)",
+    "points": 10
+  },
+  {
+    "id": 35,
+    "name": "Grav-cannon (non-infantry)",
+    "points": 15
+  },
+  {
+    "id": 36,
+    "name": "Grav-gun",
+    "points": 10
+  },
+  {
+    "id": 37,
+    "name": "Grenade Harness",
+    "points": 5
+  },
+  {
+    "id": 38,
+    "name": "Hand Flamer",
+    "points": 5
+  },
+  {
+    "id": 39,
+    "name": "Heavy Bolt Pistol",
+    "points": 0
+  },
+  {
+    "id": 40,
+    "name": "Heavy Bolter (infantry)",
+    "points": 10
+  },
+  {
+    "id": 41,
+    "name": "Heavy Bolter (non-infantry)",
+    "points": 15
+  },
+  {
+    "id": 42,
+    "name": "Heavy Flamer (infantry)",
+    "points": 10
+  },
+  {
+    "id": 43,
+    "name": "Heavy Flamer (non-infantry)",
+    "points": 15
+  },
+  {
+    "id": 44,
+    "name": "Heavy Laser Destroyer",
+    "points": 40
+  },
+  {
+    "id": 45,
+    "name": "Heavy Onslaught Gatling Cannon",
+    "points": 30
+  },
+  {
+    "id": 46,
+    "name": "Heavy Plasma Cannon",
+    "points": 20
+  },
+  {
+    "id": 47,
+    "name": "Heavy Plasma Incinerator",
+    "points": 0
+  },
+  {
+    "id": 48,
+    "name": "Hunter Killer Missile",
+    "points": 5
+  },
+  {
+    "id": 49,
+    "name": "Hurricane Bolter",
+    "points": 15
+  },
+  {
+    "id": 50,
+    "name": "Icarus Ironhail Heavy Stubber",
+    "points": 5
+  },
+  {
+    "id": 51,
+    "name": "Icarus Rocket Pod",
+    "points": 5
+  },
+  {
+    "id": 52,
+    "name": "Icarus Stormcannon",
+    "points": 10
+  },
+  {
+    "id": 53,
+    "name": "Incendium Cannon",
+    "points": 0
+  },
+  {
+    "id": 54,
+    "name": "Instigator Bolt Carbine",
+    "points": 0
+  },
+  {
+    "id": 55,
+    "name": "Ironhail Heavy Stubber",
+    "points": 5
+  },
+  {
+    "id": 56,
+    "name": "Ironhail Skytalon Array",
+    "points": 5
+  },
+  {
+    "id": 57,
+    "name": "Kheres-Pattern Assault Cannon",
+    "points": 25
+  },
+  {
+    "id": 58,
+    "name": "Krak Grenade",
+    "points": 0
+  },
+  {
+    "id": 59,
+    "name": "Krakstorm Grenade Launcher",
+    "points": 5
+  },
+  {
+    "id": 60,
+    "name": "Las fusil",
+    "points": 10
+  },
+  {
+    "id": 61,
+    "name": "Las-talon",
+    "points": 35
+  },
+  {
+    "id": 62,
+    "name": "Lascannon (infantry)",
+    "points": 15
+  },
+  {
+    "id": 63,
+    "name": "Lascannon (non-infantry)",
+    "points": 20
+  },
+  {
+    "id": 64,
+    "name": "Macro plasma incinerator",
+    "points": 30
+  },
+  {
+    "id": 65,
+    "name": "Marksman Bolt Carbine",
+    "points": 0
+  },
+  {
+    "id": 66,
+    "name": "Master-crafted Auto Bolt Rifle",
+    "points": 5
+  },
+  {
+    "id": 67,
+    "name": "Master-crafted Boltgun",
+    "points": 5
+  },
+  {
+    "id": 68,
+    "name": "Master-crafted Instigator Bolt Carbine",
+    "points": 5
+  },
+  {
+    "id": 69,
+    "name": "Master-crafted Oculus Bolt Carbine",
+    "points": 0
+  },
+  {
+    "id": 70,
+    "name": "Master-crafted Stalker Bolt Rifle",
+    "points": 5
+  },
+  {
+    "id": 71,
+    "name": "Melta bombs",
+    "points": 5
+  },
+  {
+    "id": 72,
+    "name": "Meltagun",
+    "points": 10
+  },
+  {
+    "id": 73,
+    "name": "Missile Launcher (infantry)",
+    "points": 15
+  },
+  {
+    "id": 74,
+    "name": "Missile Launcher (non-infantry)",
+    "points": 20
+  },
+  {
+    "id": 75,
+    "name": "Multi-melta (infantry)",
+    "points": 20
+  },
+  {
+    "id": 76,
+    "name": "Multi-melta (non-infantry)",
+    "points": 25
+  },
+  {
+    "id": 77,
+    "name": "Oculus Bolt Carbine",
+    "points": 0
+  },
+  {
+    "id": 78,
+    "name": "Onslaught Gatling Cannon",
+    "points": 20
+  },
+  {
+    "id": 79,
+    "name": "Plasma Blaster",
+    "points": 10
+  },
+  {
+    "id": 80,
+    "name": "Plasma Cannon",
+    "points": 15
+  },
+  {
+    "id": 81,
+    "name": "Plasma Cutter",
+    "points": 5
+  },
+  {
+    "id": 82,
+    "name": "Plasma Exterminator",
+    "points": 5
+  },
+  {
+    "id": 83,
+    "name": "Plasmagun",
+    "points": 10
+  },
+  {
+    "id": 84,
+    "name": "Plasma Incinerator",
+    "points": 0
+  },
+  {
+    "id": 85,
+    "name": "Plasma Pistol",
+    "points": 5
+  },
+  {
+    "id": 86,
+    "name": "Predator Autocannon",
+    "points": 40
+  },
+  {
+    "id": 87,
+    "name": "Reaper Autocannon",
+    "points": 10
+  },
+  {
+    "id": 88,
+    "name": "Reductor Pistol",
+    "points": 0
+  },
+  {
+    "id": 89,
+    "name": "Shock Grenade",
+    "points": 0
+  },
+  {
+    "id": 90,
+    "name": "Skyhammer Missile Launcher",
+    "points": 0
+  },
+  {
+    "id": 91,
+    "name": "Skyspear Missile Launcher",
+    "points": 0
+  },
+  {
+    "id": 92,
+    "name": "Sniper Rifle",
+    "points": 2
+  },
+  {
+    "id": 93,
+    "name": "Special Issue Boltgun",
+    "points": 0
+  },
+  {
+    "id": 94,
+    "name": "Stalker Bolt Rifle",
+    "points": 0
+  },
+  {
+    "id": 95,
+    "name": "Storm Bolter",
+    "points": 3
+  },
+  {
+    "id": 96,
+    "name": "Stormstrike Missile Launcher",
+    "points": 0
+  },
+  {
+    "id": 97,
+    "name": "Thunderfire Cannon",
+    "points": 0
+  },
+  {
+    "id": 98,
+    "name": "Twin Assault Cannon",
+    "points": 40
+  },
+  {
+    "id": 99,
+    "name": "Twin Boltgun",
+    "points": 0
+  },
+  {
+    "id": 100,
+    "name": "Twin Heavy Bolters",
+    "points": 30
+  },
+  {
+    "id": 101,
+    "name": "Twin Heavy Plasma Cannon",
+    "points": 40
+  },
+  {
+    "id": 102,
+    "name": "Twin Icarus Ironhail Heavy Stubber",
+    "points": 0
+  },
+  {
+    "id": 103,
+    "name": "Twin Ironhail Autocannon",
+    "points": 0
+  },
+  {
+    "id": 104,
+    "name": "Twin Lascannon",
+    "points": 40
+  },
+  {
+    "id": 105,
+    "name": "Twin Multi-melta",
+    "points": 50
+  },
+  {
+    "id": 106,
+    "name": "Typhoon Missile Launcher",
+    "points": 40
+  },
+  {
+    "id": 107,
+    "name": "Volkite charger",
+    "points": 5
+  },
+  {
+    "id": 108,
+    "name": "Whirwind Castellan Launcher",
+    "points": 0
+  },
+  {
+    "id": 109,
+    "name": "Vengeance Launcher",
+    "points": 10
+  },
+  {
+    "id": 110,
+    "name": "Wrist-mounted grenade launcher",
+    "points": 0
+  }
+]

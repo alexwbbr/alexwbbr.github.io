@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "name": "Intercessor",
+    "points": 20,
+    "minSquadSize": 5,
+    "maxSquadSize": 10,
+    "squadSize": 5,
+    "rangedGear": [
+      {
+        "id": 13,
+        "optional": true,
+        "selected": true,
+        "data": {}
+      },
+      {
+        "id": 14,
+        "optional": true,
+        "selected": true,
+        "data": {}
+      },
+      {
+        "id": 31,
+        "optional": false,
+        "selected": true,
+        "data": {}
+      },
+      {
+        "id": 58,
+        "optional": false,
+        "selected": true,
+        "data": {}
+      }
+    ],
+    "meleeGear": [],
+    "equipment": [
+      {
+        "id": 3,
+        "optional": true,
+        "selected": false,
+        "data": {}
+      }
+    ]
+  }
+]
